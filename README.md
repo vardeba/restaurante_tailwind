@@ -2,7 +2,11 @@
 
 Esta aplicação é um site de um restaurante fictício, o Dev Burguer, que serve apenas hambúrgueres. Ela foi desenvolvida com o objetivo de praticar minha habilidade com HTML, Tailwind e JavaScript.
 
-## Como rodar
+## Acessar online
+
+[Link do projeto](https://restaurante-tailwind.vercel.app/)
+
+## Como rodar localmente
 
 Para rodar a aplicação, siga os seguintes passos:
 
